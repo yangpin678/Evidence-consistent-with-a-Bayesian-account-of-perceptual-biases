@@ -7,16 +7,27 @@ This repository contains the experimental data and analysis materials associated
 The study evaluates a Bayesian account of perceptual biases, which proposes that sensory information is integrated with a prior favoring frontoparallel surfaces. We examine whether systematic variations in perceived slant can be explained by changes in sensory cue reliability and prior expectations, rather than by fixed biases in the interpretation of optical information.
 
 First Author
+
 Pin Yang 1,2 
+
 yangpin@iu.edu
+
 Second Author
+
 Jeffrey Saunders 3 
+
 jsaun@hku.hk
+
 Third Author
+
 Enfu Sun 1 
+
 3075884984@qq.com
+
 Corresponding Author
+
 Zhongting Chen 1,4 
+
 ztchen@psy.ecnu.edu.cn
 
 1. Affiliated Mental Health Center (ECNU), School of Psychology and Cognitive Science, East China Normal University, Shanghai, China, 200062.
