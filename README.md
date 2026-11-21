@@ -113,13 +113,6 @@ Together, these findings provide evidence consistent with a Bayesian account of 
 
 The datasets and analysis materials provided in this repository are intended to support transparency, reproducibility, and further investigation of sensory cue integration in 3D vision.
 
-## Citation
-
-If you use these data or analysis materials, please cite the associated manuscript:
-
-Yang, P., et al. *Evidence Consistent with a Bayesian Account of Perceptual Biases: Cue Reliabilities Influence Mapping Between Actual and Perceived 3D Slant.*
-
-Full publication details will be added when available.
 
 ## Contact
 
