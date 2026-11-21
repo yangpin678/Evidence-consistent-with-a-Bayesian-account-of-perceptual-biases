@@ -1,10 +1,31 @@
-# Perceived 3D Slant: Sensory Cue Reliability and Bayesian Integration
+# Evidence consistent with a Bayesian account of perceptual biases: cue reliabilities influence mapping between actual and perceived 3D slant
 
 ## Overview
 
 This repository contains the experimental data and analysis materials associated with a study investigating how the reliability of stereoscopic and texture information influences perceived three-dimensional (3D) surface slant.
 
 The study evaluates a Bayesian account of perceptual biases, which proposes that sensory information is integrated with a prior favoring frontoparallel surfaces. We examine whether systematic variations in perceived slant can be explained by changes in sensory cue reliability and prior expectations, rather than by fixed biases in the interpretation of optical information.
+
+First Author
+Pin Yang 1,2 
+yangpin@iu.edu
+Second Author
+Jeffrey Saunders 3 
+jsaun@hku.hk
+Third Author
+Enfu Sun 1 
+3075884984@qq.com
+Corresponding Author
+Zhongting Chen 1,4 
+ztchen@psy.ecnu.edu.cn
+
+1. Affiliated Mental Health Center (ECNU), School of Psychology and Cognitive Science, East China Normal University, Shanghai, China, 200062.
+2. Department of Psychological and Brain Science, Indiana University Bloomington, IN, United States of America, 47405.
+3. Department of Psychology, The University of Hong Kong, Hong Kong, Hong Kong SAR, 999077
+4. Shanghai Changning Mental Health Center, Shanghai, China, 200336
+Journal: Proceedings of the Royal Society B: Biological Sciences
+Article DOI: [10.1098/rspb.XXXX.XXXX] 
+
 
 ## Experimental Design
 
