@@ -20,10 +20,15 @@ Zhongting Chen 1,4
 ztchen@psy.ecnu.edu.cn
 
 1. Affiliated Mental Health Center (ECNU), School of Psychology and Cognitive Science, East China Normal University, Shanghai, China, 200062.
+
 2. Department of Psychological and Brain Science, Indiana University Bloomington, IN, United States of America, 47405.
+
 3. Department of Psychology, The University of Hong Kong, Hong Kong, Hong Kong SAR, 999077
+
 4. Shanghai Changning Mental Health Center, Shanghai, China, 200336
+
 Journal: Proceedings of the Royal Society B: Biological Sciences
+
 Article DOI: [10.1098/rspb.XXXX.XXXX] 
 
 
